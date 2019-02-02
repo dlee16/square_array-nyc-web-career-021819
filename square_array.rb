@@ -1,4 +1,5 @@
 def square_array(array)
-array.each do array**2}
+square =array.each do |x|x**2
+put square
 end
 end
